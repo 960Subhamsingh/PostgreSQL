@@ -35,14 +35,14 @@ CREATE TABLE menu (
 INSERT INTO menu
   ("product_id", "product_name", "price")
 VALUES
-  (1, 'Ram', '0),
-  (2, 'sita', 15),
-   (3, 'Sonu', 12),
-   (4, 'Sonu', 12),
-	(5, 'Monu', 16),
-	(6, 'Sonu', 19),
-	(7, 'Sonu', 18),
-  (8, 'shyam', 12);
+  (1,'Rice', 12),
+  (2,'Sugar', 15),
+   (3, 'Brd', 12),
+   (4, 'Curry', 12),
+	(5, 'Trea', 16),
+	(6, 'Bengo', 19),
+	(7, 'Kurke', 18),
+  (8, 'a', 12);
 
 
 CREATE TABLE members (
