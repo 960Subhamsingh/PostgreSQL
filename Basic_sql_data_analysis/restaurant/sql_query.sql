@@ -44,4 +44,11 @@ select * from CTE_MOST_POPULAR where rk = 1
 -- 6. Which item was purchased first by the customer after they became a member?
 
 
+-- find prices of all products on 2024-09-10. Assume the price of all products before any change is 10. 
+
+select a.product_id , a.change_date, b.new_price
+from base a left join Productpri b on a.product_id b.product._id
+and a.change_date = b.change_date;
+
+
 

@@ -19,3 +19,13 @@ return top 5 year with highest avg content release!
 Categorize the content based on the presence of the keywords 'kill' and 'violence' in 
 the description field. Label content containing these keywords as 'Bad' and all other 
 content as 'Good'. Count how many items fall into each category.
+
+16. count how many null value in rating and country of netflix table
+
+select count(*) from netflix where rating is null or country is null;
+
+17. Delete null values of rating and country columns in netflix table .
+
+delete from netflix where rating is null or country is null;
+
+
