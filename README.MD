@@ -1,5 +1,5 @@
 
-[Basic_question_.1](</PostgreSQL/Basic>)
+[Basic_PostgreSQL](</PostgreSQL/Basic/intro.md>)
 
 [Netflix_data_Analysis]  <a href=https://github.com/960Subhamsingh/PostgreSQL/tree/main/Netflix_data_analysis> Netflix_data_Analysis</a> 
 
