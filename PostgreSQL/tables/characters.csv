@@ -1,0 +1,16 @@
+id,name,guild,class,level,experience,health,is_alive,last_active,mentor_id
+1,Aragorn,Rangers,Warrior,25,9000,120.5,TRUE,2023-09-20 08:00:00 UTC,
+2,Legolas,Mirkwood,Archer,22,7500,100.75,TRUE,2023-09-21 09:00:00 UTC,
+3,Gimli,Erebor,Warrior,20,6000,130.25,TRUE,2023-09-22 07:00:00 UTC,
+4,Frodo,Shirefolk,Hobbit,12,2500,50.5,FALSE,2023-09-23 10:00:00 UTC,1
+5,Sam,Shirefolk,Hobbit,13,2750,52.5,TRUE,2023-09-23 10:05:00 UTC,1
+6,Gandalf,Istari,Mage,30,10000,90,TRUE,2023-09-20 11:00:00 UTC,
+7,Boromir,Gondor,Warrior,18,5500,115.5,FALSE,2023-09-21 12:00:00 UTC,
+8,Merry,Shirefolk,Hobbit,11,2200,48.5,TRUE,2023-09-22 10:00:00 UTC,4
+9,Pippin,Shirefolk,Hobbit,11,2100,47.5,TRUE,2023-09-22 10:01:00 UTC,4
+10,Sauron,Dark Lords,Mage,40,15000,85,FALSE,2023-09-23 01:00:00 UTC,
+11,Saruman,Istari,Mage,28,8500,88.5,FALSE,2023-09-20 03:00:00 UTC,6
+12,Elrond,Rivendell,Mage,27,8200,87.5,TRUE,2023-09-21 04:00:00 UTC,6
+13,Thranduil,Mirkwood,Archer,26,7900,97,TRUE,2023-09-22 02:00:00 UTC,2
+14,Eowyn,Rohan,Warrior,17,5200,112.5,TRUE,2023-09-23 05:00:00 UTC,7
+15,Faramir,Gondor,Archer,19,5700,118.5,TRUE,2023-09-20 06:00:00 UTC,7

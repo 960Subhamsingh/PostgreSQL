@@ -1,0 +1,52 @@
+⭐️ Contents ⭐️
+
+Introduction
+Syllabus & resources
+Meet SQL!
+Types of SQL statements
+Why BigQuery 
+How to setup Google Cloud
+How to avoid Google Cloud charges
+Introduction to our data
+How data is organized in BigQuery
+Loading our data in BigQuery
+The BigQuery Interface
+Running our first query
+How SQL organizes data
+The SQL statement
+The three orders of SQL operations
+The logical order of SQL operations
+Introduction to basics
+SELECT and FROM
+Transform columns with SELECT
+The order of arithmetic operations
+The WHERE filter
+Boolean algebra
+DISTINCT
+Create BigQuery tables from queries
+UNION 1
+UNION 2
+UNION 3
+UNION 4
+ORDER BY
+LIMIT
+CASE
+Simple aggregations
+Subqueries 1
+Subqueries 2
+Subqueries 3
+Nested queries
+Common table expressions 1
+Common table expressions 2
+Common table expressions 3
+Joins
+GROUP BY And Aggregations
+Window Functions
+Putting It All Together
+Let's Solve A Hard SQL Challenge!
+PostgreSQL Exercises - Introduction
+PostgreSQL Exercises - Basic
+PostgreSQL Exercises - Joins and Subqueries
+PostgreSQL Exercises - Aggregations Pt. 1
+PostgreSQL Exercises - Aggregations Pt. 2
+PostgreSQL Exercises - Conclusion

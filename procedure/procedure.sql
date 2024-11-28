@@ -25,3 +25,5 @@ $$;
 call add_product('Dell','Laptop');
 
 select * from product;
+
+
