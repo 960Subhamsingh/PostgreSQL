@@ -22,6 +22,4 @@
 
 
 # Reference of Olympics  data
-kaggle - https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results
-
-https://techtfq.com/blog/practice-writing-sql-queries-using-real-dataset#google_vignette=
+kaggle - https://www.kaggle.com/datasets/subham0701/olympic-history/data
