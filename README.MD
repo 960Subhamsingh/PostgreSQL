@@ -6,4 +6,4 @@
 
 - **Retail sales Analysis:**  [Retail sales Analysis](</Retail sales Analysis/README.md>)
 
-- **Resaurant:** [Resaurant](<a href = "https://github.com/960Subhamsingh/PostgreSQL/tree/main/Basic_sql_data_analysis/restaurant">)
+- **Resaurant:** [Resaurant](</PostgreSQL/tree/main/Basic_sql_data_analysis/restaurant">)
