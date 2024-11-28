@@ -1,5 +1,6 @@
 ## PROJECT AND TUTORIAL PATH
 
+- **Basic_PostgreSQL** 
 [Basic_PostgreSQL](</PostgreSQL/Basic/intro.md>)
 
 - **Netflix_data_Analysis :**  [Netflix_data_Analysis](</Netflix_data_analysis/README.md>) 
