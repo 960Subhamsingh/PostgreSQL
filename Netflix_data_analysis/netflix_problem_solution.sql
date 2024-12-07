@@ -4,6 +4,7 @@
 select count(*), type from netflix group by type ;
 
 -- Find the most common rating for movies and TV shows
+
 select type , rating from(
 	select type,rating, count(*), rank() over(partition by type order by count(*))
 	as RK from netflix group by type ,rating) as tv where RK=1;
