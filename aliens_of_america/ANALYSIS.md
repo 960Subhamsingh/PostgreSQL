@@ -1,6 +1,6 @@
 # Aliens in America
 ## Case Study Questions and Answers
-### by jaime.m.shaker@gmail.com
+### by kumarsubham@gmail.com
 
 ## A. Create tables and insert data.
 ````sql

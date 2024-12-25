@@ -1,13 +1,13 @@
 # Aliens of America
 
 ## Introduction
-A portfolio building dataset provided by [Ian K.](https://www.linkedin.com/in/ian-klosowicz/) on LinkedIn
+A portfolio building dataset provided by [Subham kumar](https://www.linkedin.com/in/ksubham/) on LinkedIn
 
-Check out [My Current Analysis](https://github.com/iweld/aliens_of_america/blob/main/ANALYSIS.md "My Current Analysis") in SQL.
+Check out [My Current Analysis](./ANALYSIS.md"My Current Analysis") in SQL.
 
-Check out [My Current Excel Dashboard](https://github.com/iweld/aliens_of_america/raw/main/excel_dashboard/aliens_of_america_deux.xlsx "My Current Excel Dashboard").
+Check out [My Current Excel Dashboard](./excel_dashboard/aliens_of_america.xlsx "My Current Excel Dashboard").
 
-![alt text](https://github.com/iweld/aliens_of_america/blob/main/images/dashboard_2_screenshot.JPG)
+![alt text](images/dashboard_2_screenshot.JPG)
 
 ## Problem Statement
 For this project, you play a role as a newly hired Data Analyst for a pharmaceutical company.
@@ -32,4 +32,4 @@ This dataset contains only three tables named
  - location
 
 ## Entity Relationship Diagram
-![alt text](https://github.com/iweld/aliens_of_america/blob/main/images/ERD.JPG)
+![alt text](./images/ERD.JPG)
