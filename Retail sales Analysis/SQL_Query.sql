@@ -4,7 +4,7 @@ CREATE DATABASE Retailsales;
 
 -- Create TABLE
 
-DROP TABLE IF EXISTS retail_sales;
+DROP TABLE IF EXISTS Retailsales;
 
 CREATE TABLE retail_sales
             (
