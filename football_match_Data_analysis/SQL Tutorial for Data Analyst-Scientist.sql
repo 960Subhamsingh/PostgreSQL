@@ -2,21 +2,21 @@
 --------------------------------               SQL TUTORIAL FOR DATA ANALYST/SCIENTIST            ------------------
 -------------------------------------------------------------------------------------------------------------------
 
--- Created by: Yiannis Pitsillides
+-- Created by:  Subham Kumar
 
----------------------------------------------  Video 1  ----------------------------------------------
+---------------------------------------------    ----------------------------------------------
 -- Step 0: Download and instal SQL Server and SSMS. Create a new database
 -- Step 1: Load the raw data
 -- Step 2: SELECT query - Filtering - Conditions
 -- Step 3: WHERE CLAUSE with SubQueries
 
----------------------------------------------  Video 2  ----------------------------------------------
+---------------------------------------------    ----------------------------------------------
 -- Step 4: IFF & CASE Statement
 -- Step 5: Rename - Update - Replace - Insert Into - Delete from tables - New Column
 -- Step 6: Aggregated Funtions: SUM - AVERAGE - MIN - MAX - COUNT
 
 
----------------------------------------------  Video 3  ----------------------------------------------
+---------------------------------------------     ----------------------------------------------
 -- Step 7: JOINS & UNIONS
 
 
@@ -72,7 +72,7 @@ Neutral NVARCHAR(200)
 -- 2: Import the Data
 
 BULK INSERT Football_Data_2020
-FROM 'G:\My Drive\Youtube Videos\6. SQL Tutorial\results 1872-2020.csv'
+FROM 'G:\FROM Football_Data_Analysis\results 1872-2020.csv'
 WITH ( FORMAT='CSV');
 
 --SELECT * FROM Football_Data_2020
