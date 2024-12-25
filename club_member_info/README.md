@@ -1,8 +1,5 @@
 
-
-
-
-# data_cleaning
+# Data_Cleaning
 An SQL data cleaning project
 
 ## Introduction
