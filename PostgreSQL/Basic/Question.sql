@@ -34,8 +34,3 @@ VALUES
 
 select user_id , tweet_date, tweet_count 
 avg(tweet_count) over(partition by user_id order by tweet_date) as avg from tweet_data;
-
-
-
-
-
