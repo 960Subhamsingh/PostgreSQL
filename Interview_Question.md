@@ -399,11 +399,8 @@ with database
 7. What are Tables and Fields?
 8. What are Constraints in SQL?
 9. What is a primary key and foreign key?
-10.How to create and delete a table in SQL?
-11.What is a "TRIGGER" in SQL?
-
-Rishabh Mishra
-
+10. How to create and delete a table in SQL?
+11. What is a "TRIGGER" in SQL?
 12. How to change a table name in SQL?
 13. What is join in SQL? List its different types.
 14. What is Normalization in SQL?
