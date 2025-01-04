@@ -258,6 +258,7 @@ DELETE FROM Employee WHERE EmpID IN  (SELECT EmpID FROM Employee
 GROUP BY EmpID HAVING COUNT(*) > 1);
 ```
 11. retrieve the list of employees working in same project.
+
 ```
 WITH CTE AS 
 (SELECT e.EmpID, e.EmpName, ed.Project FROM Employee AS e
